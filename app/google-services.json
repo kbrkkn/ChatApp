@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "753436342257",
+    "firebase_url": "https://blog-6c8ad.firebaseio.com",
+    "project_id": "blog-6c8ad",
+    "storage_bucket": "blog-6c8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753436342257:android:9a830edf8bedef4c",
+        "android_client_info": {
+          "package_name": "com.example.kubra.tarifdefterim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753436342257-3bqv2820lp3bh91113rbeg21viisc97a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kMMG5iUeFc1TQ5qz5qZJ--bpdBZWkvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753436342257:android:58e6fc367ba8c148",
+        "android_client_info": {
+          "package_name": "com.example.kubra.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753436342257-cbcp3v93ikmh4av94v0qu3lb5eip4u5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kubra.chatapp",
+            "certificate_hash": "0d049a65ffe174ee21fd751edf4679951766eed1"
+          }
+        },
+        {
+          "client_id": "753436342257-3bqv2820lp3bh91113rbeg21viisc97a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kMMG5iUeFc1TQ5qz5qZJ--bpdBZWkvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753436342257-3bqv2820lp3bh91113rbeg21viisc97a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
