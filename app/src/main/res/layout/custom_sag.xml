@@ -10,6 +10,8 @@
         android:id="@+id/cardSag"
         app:cardBackgroundColor="@color/sag"
         android:layout_marginLeft="150dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         app:cardCornerRadius="10dp"
@@ -22,6 +24,7 @@
 
             <TextView
                 android:id="@+id/textViewBen"
+                android:textStyle="italic|bold"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 />

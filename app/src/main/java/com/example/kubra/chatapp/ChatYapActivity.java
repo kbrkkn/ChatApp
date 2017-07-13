@@ -36,6 +36,7 @@ public class ChatYapActivity extends AppCompatActivity {
         et_mesaj= (EditText) findViewById(R.id.editTextMesaj);
         buttonGonder= (Button) findViewById(R.id.buttonMesajGonder);
         lv_chatyap= (ListView) findViewById(R.id.listViewChatYap);
+        lv_chatyap.setDivider(null);
 
         String oda= getIntent().getStringExtra("odaKey");
         tvBaslik.setText(oda);
